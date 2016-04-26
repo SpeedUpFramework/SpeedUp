@@ -1,0 +1,18 @@
+{
+    "require": {
+      "twig/twig": "~1.0",
+
+      "illuminate/database": "*",
+      "symfony/yaml": "^3.0",
+      "swiftmailer/swiftmailer": "^5.4",
+      "robmorgan/phinx": "^0.5.1",
+      "illuminate/events": "^5.2"
+
+
+
+
+    },
+    "autoload": {
+       "psr-4": {"": "Application/"}
+   }
+}
